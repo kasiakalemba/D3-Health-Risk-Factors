@@ -7,6 +7,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ## Display 
 https://kasiakalemba.github.io/D3-Health-Risk-Factors/
+
 ![](images/page.png)
 
 ## Skills Displayed: 
