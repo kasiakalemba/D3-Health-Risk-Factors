@@ -18,7 +18,7 @@ First I downloaded the data from [2014 ACS 1-year estimates](https://factfinder.
 * Clone the repository 
 * Ryn python -m http.server to run the visualization. This will host the page at local host in your web browser. 
 
-## Observations
+## Observations 
 The most apparent trends seems to be related to income. The higher the income, the less uninsured people in the corresponsing state as well as lower smoking and obesity levels. As poverty % increases in a given state, those same factors have the opposite trend. The results are expected as states with higher income generally have more resources to keep their populations healthier. 
 
 Southern states displayed the strongest correlations between observed correlations such as increased smoking and obesity. 
