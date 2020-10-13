@@ -236,7 +236,7 @@ d3.csv("allData.csv").then(function (stateData) {
     .attr('dy', '1em')
     .attr("value", "obesity")
     .classed("active", true)
-    .text("Obesity %");
+    .text("% of Population Obesity");
 
   var smokes = yLabels.append("text")
     .attr("transform", "rotate(-90)")
@@ -245,7 +245,7 @@ d3.csv("allData.csv").then(function (stateData) {
     .attr('dy', '1em')
     .attr("value", "smokes")
     .classed("inactive", true)
-    .text("Smokes");
+    .text("% of Population Smoking");
 
   var healthcare = yLabels.append("text")
     .attr("transform", "rotate(-90)")
@@ -254,7 +254,7 @@ d3.csv("allData.csv").then(function (stateData) {
     .attr('dy', '1em')
     .attr("value", "healthcare")
     .classed("inactive", true)
-    .text("Healthcare");
+    .text("% of Population Without Healthcare");
 
 
   // Update the toolTip
