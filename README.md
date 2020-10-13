@@ -1,7 +1,7 @@
 # Health Risk Factor Analysis
 
 ## Summary 
-I analyzed the poverty, age, or household income in relation to to obesity, smoking, and lack of healthcare by making an interactive graph that let's the user explore different factor combinations.  
+I analyzed the relationship betweem factors such poverty, age, or household income in relation to to obesity, smoking, and lack of healthcare by making an interactive graph that let's the user explore different trends based on these factor combinations.  
 
 [Webpage Analysis](https://kasiakalemba.github.io/Health-Risk-Factors/)
 
@@ -10,9 +10,7 @@ I analyzed the poverty, age, or household income in relation to to obesity, smok
 * HTML, Boostrap, CSS
 
 ## Development
-I created a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age. By Using the D3 techniques, I created a scatter plot that represents each state with circle elements. I placed additional labels in the scatter plot and gave them click events so that your users can decide which data to display. I included animated transitions for the circles' locations as well as the range of the axes and added tooltips to circles with the data that the user has selected. 
-
-The data set is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
+First I downloaded the data from [2014 ACS 1-year estimates](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). I created a scatter plot between each of the data variables such as Healthcare vs. Poverty or Smokers vs. Age, etc. by using the D3. Each state is represented with circle elements. I included animated transitions for the circles' locations as well as the range of the axes and added tooltips to circles with the data that the user has selected. 
 
 ![](images/page.png)
 
