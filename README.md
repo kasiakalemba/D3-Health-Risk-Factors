@@ -1,9 +1,8 @@
 # Health Risk Factor Analysis
 
-## Summary: 
+## Summary 
 I analyzed the poverty, age, or household income in relation to to obesity, smoking, and lack of healthcare by making an interactive graph that let's the user explore different factor combinations.  
 
-## Display 
 [Webpage Analysis](https://kasiakalemba.github.io/Health-Risk-Factors/)
 
 ## Technologies
