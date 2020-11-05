@@ -5,6 +5,12 @@ I analyzed the relationship betweem factors such poverty, age, or household inco
 
 [Webpage Analysis](https://kasiakalemba.github.io/Health-Risk-Factors/)
 
+## Table of Contents
+1. [Technologies](#technologies)
+2. [Developement](#development)
+3. [Usage](#usage)
+4. [Observations](#observations)
+
 ## Technologies
 * Javascript: D3
 * HTML, Boostrap, CSS
